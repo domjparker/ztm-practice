@@ -1,0 +1,37 @@
+body {
+  background-image: url(c-valdez-j3jjULXCMFo-unsplash.jpg);
+  background-size: cover;
+}
+
+ul {
+  list-style: none;
+  display: inline-flex;
+  font-style: italic
+}
+
+h2 {
+  color: rgb(84, 109, 84);
+  text-align: center;
+  border: 3px solid grey;
+  cursor: pointer; 
+}
+
+img {
+  float: right;
+}
+
+p {
+  color: darkslategrey;
+  text-decoration: underline;
+  text-transform: uppercase;
+  line-height: 20px;
+  font-weight: bold;
+  font-size: large;
+  font-family: 'Syne Tactile', cursive;
+
+}
+
+footer {
+  clear: both;
+  text-align: center;
+}
