@@ -1,5 +1,6 @@
 body {
     margin: auto 0;
+    font-family: 'Ruda', sans-serif; 
 }
 
 .zone {
@@ -85,6 +86,13 @@ a {
     background-color: #444;
     padding: 130px;
     margin: 20px;
+}
+
+.box:hover {
+    -webkit-transform: rotate(2deg);
+    -moz-transform: rotate(2deg);
+    -o-transform: rotate(2deg);
+    transform: rotate(2deg);
 }
 
 footer {
