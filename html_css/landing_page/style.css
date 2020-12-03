@@ -12,4 +12,27 @@ html {
 
 #index-title {
   color: pink;
+  margin-bottom: 0;
+}
+
+hr {
+  border-color: rgb(192, 255, 234);
+  border-width: 3px;
+  max-width: 200px;
+}
+
+.btn {
+  font-weight: 600;
+  border-radius:300px;
+  text-transform: uppercase;
+}
+
+.btn-light {
+  color: rgb(169, 169, 169);
+  background-color: rgb(196, 254, 235);
+  border-color: rgb(190, 255, 233);
+}
+
+.btn-light:hover {
+  background-color: rgb(255, 219, 224);
 }
